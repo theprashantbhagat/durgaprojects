@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;PropertiesEx.PropertiesSemo2&apos; to &apos;PropertiesDemo2&apos;&#x0D;&#x0A;- Original project: &apos;collection&apos;&#x0D;&#x0A;- Original element: &apos;PropertiesEx.PropertiesSemo2&apos;&#x0D;&#x0A;- Renamed element: &apos;PropertiesEx.PropertiesDemo2&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;PropertiesSemo2&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;PropertiesEx{PropertiesSemo2.java[PropertiesSemo2" matchStrategy="1" name="PropertiesDemo2" qualified="false" references="true" similarDeclarations="false" stamp="1664091324696" textual="false" version="1.0"/>
+</session>

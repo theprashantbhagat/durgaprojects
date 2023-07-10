@@ -1,0 +1,16 @@
+INDEX VERSION 1.131+D:\PB16\DurgaSoftJava\.metadata\.plugins\org.eclipse.jdt.core
+3416853083.index
+3086115956.index
+1940955397.index
+1692729972.index
+3020491684.index
+430016023.index
+768080613.index
+1440389753.index
+1637731351.index
+4089022704.index
+1865797976.index
+3933804599.index
+115667787.index
+3423488461.index
+1880859750.index
